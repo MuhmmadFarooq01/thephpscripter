@@ -1,1 +1,1 @@
-Hi, I'm Muhammad Farooq, a backend developer with expertise in the MERN stack and SQL. I also work with React, Tailwind CSS for frontend development, and build mobile applications using React Native and Expo. I'm passionate about creating full-stack web and mobile applications, and always open to collaborating on exciting projects.
+Hi, I'm Muhammad Farooq, a Full Stack Developer specializing in the MERN stack, React Native, and Hono. I build production-ready web and mobile applications end-to-end — from backend APIs and auth systems to frontend UI and deployment on VPS.
